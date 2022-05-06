@@ -4,6 +4,9 @@ public class DemoTwoJava {
 	
 	public static void main(String[] args) {
 		System.out.println(("Git demo 2"));
+		
+		System.out.println(("Git demo 3"));
+		
 	}
 
 }
